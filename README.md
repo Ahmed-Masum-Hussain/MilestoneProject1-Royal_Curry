@@ -1,39 +1,35 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## Project goals
 
-Welcome,
+The aim of this project is to design a website for an Indian restaurant that gives the user general information about the restaurant and allows the user to make a reservation online.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+* ## User goals
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+    * A website that is visually pleasing.
+    
+    * A website that is easy to navigate.
+    
+    * A website providing all general information about the restaurant for example business hours and contact details. 
+    
+    * A website that allows you to make a reservation.
 
-## Codeanywhere Reminders
+    * ## Owner goals
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+   * A website that re-inforces the brand of the restaurant.
 
-`python3 -m http.server`
+   * A website that increases footfall.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+   * A website that converts a user to book and frequent the restaurant.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+   * ## User stories
 
-`http_server`
+   * As a user I want to instantly know I am on correct website.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+   * As a user I want to know how to navigate the site.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+   * As a user I want to view the menu.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+   * As a user I want to make a booking online.
 
-To log into the Heroku toolbelt CLI:
+* ## Wireframes
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+* Wireframes for a desktop, tablet and smartphone are available [here.](docs/wireframes.pdf)
