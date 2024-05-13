@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Love+Ya+Like+A+Sister&family=PT+Serif:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+
+/*--------------------------------------------Header and Navigation*/
+
+.header-border {
+    height: auto;
+    border: 5px solid #677d85;
+  }
+
+#logo {
+    font-family: Love ya like a sister;
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #677d85;
+}
+
+#sub-logo {
+    font-family: Lato;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #677d85;
+}
+
+.navbar-nav a {
+    font-family: Love ya like a sister;
+    font-size: 20px;
+    margin-right: 25px;
+    color: #677d85;
+  }
+
+
+  /*--------------------------------------------Colors*/
+
+
+/*--------------------------------------------Footer*/
+
+  .footer-border {
+    height: auto;
+    border: 5px solid #677d85;
+  }
+
+  .social-networks{
+    font-size: 30px;
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  .social-networks li{
+    display: inline;
+  }
+  
+  .social-networks i{
+    padding: 2% 7%;
+    color: #677d85;
+  }
+
+  
+
