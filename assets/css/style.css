@@ -7,7 +7,7 @@
   border: 0;
 }
 
-/*--------------------------------------------Header*/
+/*----------header and logo---*/
 
  .header {
     height: auto;
@@ -35,7 +35,8 @@
 }
 
 
-/*--------------------------------------------Text styling*/
+/*----------text styling---*/
+
 
 .uppercase {
   text-transform: uppercase;
@@ -53,6 +54,12 @@
   text-align: center;
 }
 
+.font-size {
+  font-size: 25px;
+}
+
+/*----------hero image---*/
+
 #hero-image {
   height: 600px;
   width: 100%;
@@ -66,6 +73,8 @@
   object-fit: cover;
 }
 
+
+/*----------homepage content---*/
 
 .about {
   padding: 2% 0;
@@ -87,7 +96,7 @@
 
 .hours-contact-layout div{
   flex: 1;
-  flex-direction: column
+  flex-direction: column;
 }
 
 .hours-contact-layout img {
@@ -117,6 +126,8 @@
   order: 1;
 }
 
+/*----------menupage styling---*/
+
 .courses {
   padding: 2% 0;
   font-size: 25px;
@@ -128,10 +139,13 @@
  
 }
 
+/*----------menupage images---*/
+
 .starter-main-dessert-container {
   position: relative;
   margin: 0 2% 2% 2%;
 }
+
 
 #starter-image-container {
   background-image: url("../images/starter.jpg");
@@ -163,6 +177,8 @@
   z-index: -1;
 }
 
+/*----------reservation page styling---*/
+
 .reservation-border {
   padding: 5%;
   margin: 0 20%;
@@ -173,7 +189,7 @@
   margin-top: 5%;
 }
 
-/*--------------------------------------------Footer*/
+/*----------footer styling---*/
 
 .social-networks{
   font-size: 30px;
@@ -189,6 +205,17 @@
   margin: 1%;
   padding: 2%;
   color: #677d85;
+}
+
+
+@media(max-width: 992px) {
+    .hours-image {
+        display: none;
+    }
+
+  .contact-image {
+    display: none;
+  }
 }
 
   
