@@ -163,7 +163,15 @@
   z-index: -1;
 }
 
+.reservation-border {
+  padding: 5%;
+  margin: 0 20%;
+  border: 3px solid #677d85;
+}
 
+#button {
+  margin-top: 5%;
+}
 
 /*--------------------------------------------Footer*/
 
